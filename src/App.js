@@ -1,10 +1,10 @@
 
-
+import Todo from "./conpoments/Todo";
 
 function App() {
   return (
     <div className="App">
-      <h1>Todo list</h1>
+      <Todo />
     </div>
   );
 }
